@@ -80,3 +80,35 @@ const sum = 10 + 10;
 //ejercicio 12 - Change the 0 so the difference is 12.
 
 const difference = 45 - 33;
+
+//ejercicio 13 - Change the 0 so that product will equal 80.
+
+const product = 8 * 10;
+
+//ejercicio 14 - Change the 0 so that the quotient is equal to 2.
+
+const quotient = 66 / 33;
+
+// ejercicio 15 -Change the code to use the ++ operator on myVar.
+let myVar = 87;
+
+// Only change code below this line
+myVar++;
+
+
+//ejercicio 16 - Change the code to use the -- operator on myVar.
+let myVar = 11;
+
+// Only change code below this line
+myVar --;
+
+
+//ejercicio 17 -Create a variable myDecimal and give it a decimal value with a fractional part (e.g. 5.7).
+const ourDecimal = 5.7;
+
+// Only change code below this line
+
+var myDecimal= 3.4
+
+//ejercicio 18 -Change the 0.0 so that product will equal 5.0.
+const product = 2.0 * 2.5;
